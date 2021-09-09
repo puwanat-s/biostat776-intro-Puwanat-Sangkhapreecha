@@ -1,1 +1,3 @@
-# biostat776-intro-Puwanat-Sangkhapreecha
+Introducing myself
+
+This website contains a short introduction of Puwanat Sangkhapreecha
